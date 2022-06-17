@@ -1,0 +1,25 @@
+.content {
+  width: 100%;
+  min-width: 100%;
+  flex-shrink: 0;
+  display: grid;
+  grid-row-gap: 92px;
+}
+@media screen and (max-width: 1140px) {
+  .content {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .content {
+    grid-row-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .content {
+    grid-row-gap: 64px;
+  }
+}
+
