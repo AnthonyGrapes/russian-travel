@@ -1,4 +1,25 @@
 .intro {
-  font-family: 'Inter', Arial, sans-serif;
+  padding: 0 148px;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 1140px) {
+  .ntro {
+    padding: 0 48px;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .intro {
+    padding: 0 24px;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .intro {
+    padding: 0 16px;
+    box-sizing: border-box;
+  }
 }
