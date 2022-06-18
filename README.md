@@ -11,7 +11,7 @@
 
 **GitHub**
 
-* [Ссылка на GitHub](https://)
+* [Ссылка на GitHub](https://github.com/AnthonyGrapes/russian-travel.gi/index.html)
 
 **Планы по доработке**
 
