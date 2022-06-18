@@ -2,9 +2,3 @@
   font-family: 'Inter', Arial, sans-serif;
 }
 
-@media screen and (max-width: 1140px) {
-  .places__section {
-    max-width: calc(1024px - 2*48px);
-  }
-}
-
