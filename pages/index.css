@@ -2,11 +2,12 @@
 @import url("..//vendor/fonts/inter.css");
 
 @import url("..//blocks/content/content.css");
-@import url("..//blocks/content/__section/cover__section.css");
-@import url("..//blocks/content/__section/intro__section.css");
-@import url("..//blocks/content/__section/lead__section.css");
-@import url("..//blocks/content/__section/photo-grid__section.css");
-@import url("..//blocks/content/__section/places__section.css");
+@import url("..//blocks/lead/__section/lead__section.css");
+@import url("..//blocks/intro/__section/intro__section.css");
+@import url("..//blocks/photo-grid/__section/pgoto-grid__section.css");
+@import url("..//blocks/places/__section/places__section.css");
+@import url("..//blocks/cover/__section/cover__section.css");
+
 @import url("..//blocks/cover/cover.css");
 @import url("..//blocks/cover/__item/cover__item.css");
 @import url("..//blocks/cover/__subtitle/cover__subtitle.css");
