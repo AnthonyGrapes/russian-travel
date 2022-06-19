@@ -1,4 +1,7 @@
 *,*::before,*::after {outline: 1px solid red}
+* {
+  box-sizing: border-box;
+}
 .page {
   background-color: #2A2C2F;
   color: #ffffff;
@@ -11,3 +14,5 @@
   flex-direction: column;
   margin: 0 auto;
 }
+
+
