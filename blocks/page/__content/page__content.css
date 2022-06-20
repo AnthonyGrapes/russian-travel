@@ -19,10 +19,6 @@
 @media screen and (max-width: 767px) {
   .page__content {
     margin-top: 48px;
-<<<<<<< HEAD
     margin-bottom: 0;
-=======
-    margin-bottom: 24px;
->>>>>>> d406e98c793e8e45c2180c3ca2ef3938f4ac37ee
   }
 }
