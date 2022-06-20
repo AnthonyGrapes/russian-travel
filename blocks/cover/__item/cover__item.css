@@ -9,21 +9,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-<<<<<<< HEAD
   background-image: url(../../../images/cover-trains.jpg);
-=======
-  background-image: url(../../../sprint-3-images/cover-trains.jpg);
->>>>>>> d406e98c793e8e45c2180c3ca2ef3938f4ac37ee
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   position: relative;
   z-index: 1;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> d406e98c793e8e45c2180c3ca2ef3938f4ac37ee
 .cover__item::before {
   content: '';
   background: #2A2C2F;
