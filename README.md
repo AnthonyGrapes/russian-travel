@@ -16,4 +16,4 @@
 
 **Планы по доработке**
 
-Translate in English. Make interface switchable with JS.
+Translate in English.  Make interface switchable with JS.
