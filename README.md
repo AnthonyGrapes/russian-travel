@@ -11,7 +11,11 @@
 
 **GitHub**
 
+<<<<<<< HEAD
 * [Ссылка на GitHub](https://anthonygrapes.github.io/russian-travel/index.html)
+=======
+* [Ссылка на GitHub](https://AnthonyGrapes.github.io/russian-travel/index.html)
+>>>>>>> d406e98c793e8e45c2180c3ca2ef3938f4ac37ee
 
 **Планы по доработке**
 
