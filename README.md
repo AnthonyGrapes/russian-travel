@@ -11,9 +11,8 @@
 
 **GitHub**
 
-<<<<<<< HEAD
+
 * [Ссылка на GitHub](https://anthonygrapes.github.io/russian-travel/index.html)
-* 
 
 **Планы по доработке**
 
